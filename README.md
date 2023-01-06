@@ -39,7 +39,7 @@ Install the web3 libraries using the following commands: 'from web3 import Accou
 ### **Run instructions:**
 To run this analysis, simply clone the repository or download the files. Open a terminal instance, activate the environment with the required packages and navigate to the folder where the files are located. Once there, run the following command
 ```streamlit
-streamlit run **krypto_jobs.py**
+streamlit run krypto_jobs.py
 ```
 
 ___
