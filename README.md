@@ -1,4 +1,4 @@
-# KryptoJobs2Go_ETH_Payments
+# KryptoJobs2Go ETH Payments
 **Module 19 Challenge**
 
 This challenge required the creation of a streamlit application that makes hiring a FinTech freelancer easier! The application allows the user to select a freelancer and how many hours they wish to hire them for, and then it can send ETH directly into their wallet as payment. The screenshots below are from **Ganache**, an application that shows the transaction history, details and addresses that were used in the KryptoJobs2Go application, straight from the blockchain as evidence that the application has worked.
